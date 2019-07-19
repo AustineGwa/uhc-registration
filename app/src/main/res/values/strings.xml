@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UHC Registration</string>
+
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>female</item>
+    </string-array>
+</resources>
